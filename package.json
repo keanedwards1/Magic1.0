@@ -1,0 +1,16 @@
+{
+  "name": "light-book-sketch-ncd1f",
+  "productName": "light-book-sketch-ncd1f",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "kean.edwards",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "27.1.3"
+  }
+}
